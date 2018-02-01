@@ -1,4 +1,4 @@
 for i in {0..10}
 do
-	./gradlew connectedAndroidTest --debug
+  ./gradlew connectedAndroidTest --debug
 done
